@@ -1,1 +1,2 @@
 # The_F2E_week5_Comic_Viewer
+練習使用jQuery製作簡單動畫效果。
